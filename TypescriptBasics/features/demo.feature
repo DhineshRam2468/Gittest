@@ -30,7 +30,7 @@ Then you will enter "<key>" in search box
 Examples:
     | key    |
     | Hello  |
-    | Hi     |
+    | Hey     |
 
 
 
